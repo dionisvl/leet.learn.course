@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	countTens := getNoRepeatableNumbersCount(31415926)
+	countTens := getCountTens(31415966)
 	fmt.Println(countTens)
 }
 
