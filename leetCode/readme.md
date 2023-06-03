@@ -24,3 +24,4 @@ Output: [0,1]
 9. Palindrome Number - Палиндром https://leetcode.com/problems/palindrome-number  
 13 Roman to Integer https://leetcode.com/problems/roman-to-integer/  
 14 Longest Common Prefix - Самый длинный общий префикс троки https://leetcode.com/problems/longest-common-prefix/   
+20 Valid Parentheses - Правильные скобки https://leetcode.com/problems/valid-parentheses/
